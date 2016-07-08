@@ -9,7 +9,7 @@ public class Contacto {
     private String telefono;
 
     public Contacto(){
-        
+
     }
 
     public String getNombre() {
