@@ -67,7 +67,7 @@ public class DataSource {
 
         Contacto contacto = cursorToContacto(cursor);
         cursor.close();
-        
+
         return contacto;
     }
 
